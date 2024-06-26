@@ -195,7 +195,6 @@ aside>h3 {
 }
 
 aside>ul {
-    list-style-type: square ;
     list-style-position: inside;
     columns: 2;
 }
